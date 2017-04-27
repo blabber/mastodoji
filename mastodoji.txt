@@ -31,3 +31,4 @@ B~    Cool mastodon
 d:~   Mastodon with baseball cap
 m~    Facepalming mastodon
 P~    Pirate mastodon
+:E    Masthulhu
