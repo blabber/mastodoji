@@ -1,34 +1,37 @@
 :~    Mastodon
 
-%~    confused mastodon
+;~    Winking mastodon
 :➰    confused mastodon
+:≈    mutant mastodon
+:⩫    Pierced mastodon
 :—    Tensed mastodon
-:~-   Mastodon having a cold
 :'~   Sad mastodon
+µ:~   Hipster Mastodon
+±:~   Mastodon w/ bipolar 
+¶:~   Mastodon with Baseball cap
+»:~   very angry mastodon
+:~-   Mastodon having a cold
 :~*   Mastodon kiss
 :~~:  Mastodon friends
-:⩫    Pierced mastodon
-:≈    mutant mastodon
 :õ    Shocked mastodon
 :ũ    Razz mastodon
-;~    Winking mastodon
 [:~   Mastodon with Headphones
 [°]~  Cyborg mastodon
 {:~   Mastodon w/ Sombrero hat
 {:~   Worried mastodon
-|:~   Serious mastodon
-~:    Nodotsam
+%~    confused mastodon
 =:~   Punk-Mastodon (Punktodon?)
 ==|:~ Mastodon w/ Top hat
 >:~   angry mastodon
-±:~   Mastodon w/ bipolar 
-»:~   very angry mastodon
-µ:~   Hipster Mastodon
-¶:~   Mastodon with Baseball cap
+|:~   Serious mastodon
+~:    Nodotsam
 0:~   Holy mastodon
 3:~   Mastodon with horns
 B~    Cool mastodon
 d:~   Mastodon with baseball cap
 m~    Facepalming mastodon
 P~    Pirate mastodon
+
 :E    Masthulhu
+:≋    better Masthulhu
+:≉    not a Masthulhu at all
